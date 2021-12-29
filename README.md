@@ -76,7 +76,7 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 * [Psycho](https://github.com/hopepsycho/kunjappan3.0)
 * [Editing](https://github.com/hopepsycho)
 * [Kunjappan](https://t.me/kunjappansupport)
-* [Lucifer](@Lucifer_filter_bot)
+* [Lucifer](@hopepsycho)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
