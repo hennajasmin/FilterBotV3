@@ -30,12 +30,11 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [PSYCHO](
-https://t.me/king_of_psycho)
+➥ Creator : @Soulsharper
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/vkkZs6t_DZo)
+➥ don't click : [Click Me](Podey)
 """
